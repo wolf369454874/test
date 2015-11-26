@@ -1,0 +1,6 @@
+D:\wcfComm\wcfCommRequest\wcfCommRequest\bin\Debug\wcfCommRequest.dll.config
+D:\wcfComm\wcfCommRequest\wcfCommRequest\bin\Debug\wcfCommRequest.dll
+D:\wcfComm\wcfCommRequest\wcfCommRequest\bin\Debug\wcfCommRequest.pdb
+D:\wcfComm\wcfCommRequest\wcfCommRequest\obj\Debug\wcfCommRequest.dll
+D:\wcfComm\wcfCommRequest\wcfCommRequest\obj\Debug\wcfCommRequest.pdb
+D:\wcfComm\wcfCommRequest\wcfCommRequest\obj\Debug\wcfCommRequest.csprojResolveAssemblyReference.cache
